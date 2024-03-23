@@ -1,7 +1,7 @@
 # spin
 Signal Processing Instrument for NMR. Based on the RedPitaya and Zynq7 FPGA 
 
-This project is based on [@paveldemin](https://www.github.com/paveldemin)'s RedPitaya knowledgebase. He put an incredible amount of love into it, and the RP community would not be where it is today without him.
+This project is based on [@pavel-demin](https://www.github.com/pavel-demin)'s RedPitaya knowledgebase. He put an incredible amount of love into it, and the RP community would not be where it is today without him.
 
 ## About
 The Signal Processing Instrument for NMR (SPIN) is a FPGA-based DSP platform tailored for use with the [Compact-NMR](https://github.com/ARTS-Laboratory/Compact-NMR) project from the Adaptive Real-Time Systems Laboratory at the University of South Carolina. It's primary focus is to produce high-fidelity Larmor RF and precise CPMG pulse-trains, as well as to collect time-domain spin echo response signals for post processing. The project **is currently a work in progress,** as I am taking time refining ideas from my previous revision of the same system based on the EclypseZ7 from Digilent. 
